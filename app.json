@@ -3,36 +3,26 @@
     "description": "User bot for telegram !",
     "stack": "container",
     "logo": "https://graph.org/file/41cc2350b500c3ff3b387.jpg",
-    "repository": "https://github.com/eooe31/66",
+    "repository": "https://github.com/eooe31/bot",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/eooe31/66",
+    "website": "https://github.com/eooe31/bot",
     "env": {
-        "API_ID": {
-            "description": "كود تيرمكس 3",
-            "value": "",
-            "required": true
-        },
-        "API_HASH": {
-            "description": "ايبي هاش 2",
-            "value": "",
-            "required": true
-        },
         "TERMUX": {
-            "description": "ايبي ايدي 1",
+            "description": "الرمز حبي",
             "value": "",
             "required": true
         },
         "TOKEN": {
-            "description": " توكن البوت 4",
+            "description": " توكن البوت",
             "value": "",
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "يوزر البوت بدون ـ@ـ 5",
+            "description": "يوزر البوت بدون ـ@ـ",
             "value": "",
             "required": true
         }
