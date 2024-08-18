@@ -1,0 +1,40 @@
+{
+    "name": "MAX",
+    "description": "User bot for telegram !",
+    "stack": "container",
+    "logo": "https://graph.org/file/41cc2350b500c3ff3b387.jpg",
+    "repository": "https://github.com/eooe31/66",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github.com/eooe31/66",
+    "env": {
+        "API_ID": {
+            "description": "كود تيرمكس 3",
+            "value": "",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "ايبي هاش 2",
+            "value": "",
+            "required": true
+        },
+        "TERMUX": {
+            "description": "ايبي ايدي 1",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": " توكن البوت 4",
+            "value": "",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "يوزر البوت بدون ـ@ـ 5",
+            "value": "",
+            "required": true
+        }
+    }
+}
