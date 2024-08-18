@@ -11,8 +11,18 @@
     ],
     "website": "https://github.com/eooe31/bot",
     "env": {
+        "API_ID": {
+            "description": "ايبي ايدي",
+            "value": "",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "ايبي هاش",
+            "value": "",
+            "required": true
+        },
         "TERMUX": {
-            "description": "الرمز حبي",
+            "description": "كود تيرمكس",
             "value": "",
             "required": true
         },
